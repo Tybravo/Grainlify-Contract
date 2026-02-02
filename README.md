@@ -1,4 +1,4 @@
-# 📘 Grainlify — Grant Execution Infrastructure for Open Source
+# 📘 Grainlify — Smart Contract
 
 ### On-Chain (Smart Contracts)
 
